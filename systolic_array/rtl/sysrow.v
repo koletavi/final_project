@@ -1,5 +1,5 @@
 // UNTESTED systolic array row
-module sysrow #{ parameter WORD_LEN = 4 , ARR_WDT = 4 ) (
+module sysrow #( parameter WORD_LEN = 4 , ARR_WDT = 4 ) (
 input clk	,
 input nrst	,
 input preload	,

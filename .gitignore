@@ -1,0 +1,36 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Altera Quartus
+*.qws
+*.sopcinfo
+*.bak
+*.cmp
+*.done
+*.rpt
+*.sld
+*.sof
+*.pof
+*.jdi
+*.pin
+*.qdf
+*.rbf
+*.ttf
+*.hex
+*.summary
+*.qar
+*.qarlog
+*.smsg
+*.sim
+*.sip
+*.ppf
+*.xml
+db/
+incremental_db/
+output_files/
+simulation/
+
+# General
+*.log
+*.tmp
